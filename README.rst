@@ -3,8 +3,8 @@ Backbone Extensions
 ===================
 :Info: See `github <http://github.com/sprin/backbone_ext>`_ for the latest
 	   source.
-
-Current version: 0.1.0
+:Version: 0.1.0
+:License: MIT, see LICENSE file.
 
 About
 =====
@@ -32,7 +32,7 @@ Model
 
  - ``toDisplay``
 
-   Similar to ``toJSON``, but formats ``moment.js`` objects with supplied date
+   Similar to ``toJSON``, but formats `moment.js <http://momentjs.com/>`_ objects with supplied date
    format.
 
 Collection
