@@ -2,6 +2,7 @@
 // ===================
 
 // Version 0.1.0
+// See `github <https://github.com/sprin/backbone_ext>`_ for latest source.
 
 // Allow an object to translate a concrete event, such as a click,
 // into an abstract event that its listeners can act on.
